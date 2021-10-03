@@ -41,4 +41,10 @@ function generatePassword(){
   if(acceptedCharacters.length == 0){
     return "Choose more than one option"
   }
+  var password = ""
+  for (let i=1;i<=lengthOfPassword;i++){
+    var index = Math.floor(Math.random() * acceptedCharacters.length)
+    password += acceptedCharacters[index]
+  } 
+  console.log (password)
 }
