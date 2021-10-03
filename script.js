@@ -47,4 +47,5 @@ function generatePassword(){
     password += acceptedCharacters[index]
   } 
   console.log (password)
+  return password
 }
