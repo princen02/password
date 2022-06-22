@@ -7,4 +7,4 @@ Enables employees to generate random passwords based on criteria they have selec
 Zibusiso Prince Ndebele
 
 # Authors
-Zibusiso Prince Ndebel
+Zibusiso Prince Ndebele
